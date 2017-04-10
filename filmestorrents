@@ -1,0 +1,17 @@
+#EXtm3u
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", --Mais Tv HD--
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", --07/04/2017--
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", [COLOR blue][I][B] -- Filmes Torrent -- [/B][/I] [/COLOR]
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://filmesonlinejj.net/wp-content/uploads/2017/01/k94xELL6RYudjaHtWKw6oeDKOrq-185x278.jpg" aspect-ratio="16:9" ,Beleza Oculta,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:5b7368f564ffc6665141739a7817db22f1a45d80&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.4k17.me/wp-content/uploads/2017/01/3wtg4-250x303.jpg" aspect-ratio="16:9" , 10000 Anos Depois ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:2109B78DB2896AAF8F98FF19007A24FC40F4C85D&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://megafilmestorrent.org/wp-content/uploads/2017/03/Monster-Trucks-Torrent.jpg" aspect-ratio="16:9" , Monster Trucks ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B4222DAE38B565632C4B1DAE9C6E3687920749B2&amp
+
