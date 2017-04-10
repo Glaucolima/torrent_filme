@@ -27,3 +27,7 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:D4DDB7A0F52D4302E0FA50E90813
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-Kong-A-Ilha-da-Caveira-Dublado-Torrent.jpg " aspect-ratio="16:9" , Kong: A Ilha Da Caveira ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:950292B8DA64DB6CE4C76C9876F4A3AD7886E951&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://kickasstorrents.to/images/movies/29/755/2975590.jpg " aspect-ratio="16:9" , Batman v Superman: Dawn of Justice ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:6BE75A15F27743ECEB3E6B001FE1629750CF8889&amp
+
+
