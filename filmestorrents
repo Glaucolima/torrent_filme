@@ -15,3 +15,12 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:2109B78DB2896AAF8F98FF19007A
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://megafilmestorrent.org/wp-content/uploads/2017/03/Monster-Trucks-Torrent.jpg" aspect-ratio="16:9" , Monster Trucks ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:B4222DAE38B565632C4B1DAE9C6E3687920749B2&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://megafilmestorrent.org/wp-content/uploads/2017/03/Moana-Um-Mar-de-Aventuras-Torrent.jpg " aspect-ratio="16:9" , Moana ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:9766E5EAFFF34DCE312C1C7FEA89BB848F2991D3&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://megafilmestorrent.org/wp-content/uploads/2017/02/Scooby-Doo-E-o-Combate-do-Salsicha-Torrent.jpg " aspect-ratio="16:9" , Scooby-Doo! E o Combate do Salsicha ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:E6EB19998363743166F1441450AA70206F53B038&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://megafilmestorrent.org/wp-content/uploads/2017/01/Trolls-Torrent.jpg " aspect-ratio="16:9" , Trolls ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D4DDB7A0F52D4302E0FA50E90813D15FA61BC0CD&amp
+
