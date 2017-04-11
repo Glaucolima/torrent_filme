@@ -48,6 +48,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:3F32F394A036E9BF145E2411E3AC
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Frank-e-Lola-Poster.jpg " aspect-ratio="16:9" , Frank & Lola ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:6BB7DAAAD5ED1E3559CA91F513D02C08F035A504&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Sing-Quem-Canta-Seus-Males-Espanta-Dublado-Torrent.jpg " aspect-ratio="16:9" , Sing: Quem Canta Seus Males Espanta ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:219043A9ABAE0507E1B7070A39D74BA95D7105A1&amp
+
 
 
 
