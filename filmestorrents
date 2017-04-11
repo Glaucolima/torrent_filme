@@ -30,4 +30,24 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:950292B8DA64DB6CE4C76C9876F4
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://kickasstorrents.to/images/movies/29/755/2975590.jpg " aspect-ratio="16:9" , Batman v Superman: Dawn of Justice ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:6BE75A15F27743ECEB3E6B001FE1629750CF8889&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-O-Poderoso-Chefinho-Dublado-Torrent.jpg " aspect-ratio="16:9" , O Poderoso Chefinho ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:84912B99953A2185A70A2021EA4AAB6134FAFF69&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Resident-Evil-6-O-Capitulo-Final-Dublado-Torrent.jpg " aspect-ratio="16:9" , Resident Evil 6: O Capítulo Final ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B3D40AF19E2043FB0697FF1BE47C05774662478B&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " aspect-ratio="16:9" , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih: &amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " aspect-ratio="16:9" , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih: &amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " aspect-ratio="16:9" , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih: &amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " aspect-ratio="16:9" , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih: &amp
+
+
+
 
