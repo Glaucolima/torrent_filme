@@ -6,11 +6,14 @@
 
 #EXTINF:-1 tvg-logo="--logo--" group-title="", [COLOR blue][I][B] -- Filmes Torrent -- [/B][/I] [/COLOR]
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://filmesonlinejj.net/wp-content/uploads/2017/01/k94xELL6RYudjaHtWKw6oeDKOrq-185x278.jpg" aspect-ratio="16:9" ,Beleza Oculta,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:5b7368f564ffc6665141739a7817db22f1a45d80&amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.4k17.me/wp-content/uploads/2017/01/3wtg4-250x303.jpg" aspect-ratio="16:9" , 10000 Anos Depois ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:2109B78DB2896AAF8F98FF19007A24FC40F4C85D&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://kickasstorrents.to/images/movies/29/755/2975590.jpg " aspect-ratio="16:9" , Batman v Superman: Dawn of Justice ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:6BE75A15F27743ECEB3E6B001FE1629750CF8889&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://filmesonlinejj.net/wp-content/uploads/2017/01/k94xELL6RYudjaHtWKw6oeDKOrq-185x278.jpg" aspect-ratio="16:9" ,Beleza Oculta,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:5b7368f564ffc6665141739a7817db22f1a45d80&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://megafilmestorrent.org/wp-content/uploads/2017/03/Monster-Trucks-Torrent.jpg" aspect-ratio="16:9" , Monster Trucks ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:B4222DAE38B565632C4B1DAE9C6E3687920749B2&amp
@@ -26,9 +29,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:D4DDB7A0F52D4302E0FA50E90813
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-Kong-A-Ilha-da-Caveira-Dublado-Torrent.jpg " aspect-ratio="16:9" , Kong: A Ilha Da Caveira ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:950292B8DA64DB6CE4C76C9876F4A3AD7886E951&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://kickasstorrents.to/images/movies/29/755/2975590.jpg " aspect-ratio="16:9" , Batman v Superman: Dawn of Justice ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:6BE75A15F27743ECEB3E6B001FE1629750CF8889&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-O-Poderoso-Chefinho-Dublado-Torrent.jpg " aspect-ratio="16:9" , O Poderoso Chefinho ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:84912B99953A2185A70A2021EA4AAB6134FAFF69&amp
@@ -53,6 +53,27 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:219043A9ABAE0507E1B7070A39D7
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Passageiros-Dublado-Torrent.jpg " aspect-ratio="16:9" , Passageiros ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:042B136412412B6C676619EF65CF37CFE8CF820A&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-TOC-Transtornada-Obsessiva-Compulsiva-Dublado-Nacional-Torrent.jpg " , Transtornada Obsessiva Compulsiva ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:05BBC9967DF750D2A2FC886D74745DD3F2DD8390&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/03/Logan-Wolverine-3-Dublado-Torrent.jpg" , Logan HDHip ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D2FFC00C21DAF83F11C8580CB3F8967FB537D98C&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" Imagem " , Nome ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
 
 
 
