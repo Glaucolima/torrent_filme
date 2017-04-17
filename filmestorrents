@@ -72,7 +72,7 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:55dd0a78240268904cb54c5f2caf
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w325/c9piYIaPs5eCc31fgDal8HMg2Z0.jpg " , John Wick:De Volta ao Jogo ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:C471F44D13FEF18906CB6607480624D9084CFC67&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/O-%C3%9Altimo-Samurai.jpg " , O Último Samurai ,
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/O-%C3%9Altimo-Samurai.jpg " , O Ultimo Samurai ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:622a6367410c380870e71bde23b967522e92e261&amp
 
 
