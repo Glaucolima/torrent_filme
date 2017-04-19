@@ -78,6 +78,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:622a6367410c380870e71bde23b9
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-Ate-o-Ultimo-Homem-Dublado-Torrent.jpg " , Ate o Ultimo Homem ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:51E31EB48EF4817913EAF57B74268BC2D93429DC&amp
 
-
-
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/31/066f871079f6b6bdff3a5306d07fab05.jpg " , Um Limite Entre Nos ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:36A7403EC5DC11EF42AE761AA1B1869CD12A90BE&amp
 
