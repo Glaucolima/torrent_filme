@@ -75,6 +75,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:C471F44D13FEF18906CB66074806
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/O-%C3%9Altimo-Samurai.jpg " , O Ultimo Samurai ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:622a6367410c380870e71bde23b967522e92e261&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-Ate-o-Ultimo-Homem-Dublado-Torrent.jpg " , Ate o Ultimo Homem ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:51E31EB48EF4817913EAF57B74268BC2D93429DC&amp
+
 
 
 
