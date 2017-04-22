@@ -9,6 +9,9 @@
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.4k17.me/wp-content/uploads/2017/01/3wtg4-250x303.jpg" aspect-ratio="16:9" , 10000 Anos Depois ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:2109B78DB2896AAF8F98FF19007A24FC40F4C85D&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/02/09/8a3b36b5140266714b31d68257bbbeec.jpg " , Anjos da Noite 5: Guerras de Sangue ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:262A60AA24848E905923B3F420B568E7FB19ED0F&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://kickasstorrents.to/images/movies/29/755/2975590.jpg " aspect-ratio="16:9" , Batman v Superman: Dawn of Justice ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:6BE75A15F27743ECEB3E6B001FE1629750CF8889&amp
 
@@ -126,9 +129,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:95F92DFD3BA615CE1944C55C0CBB
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/12/bd3d94ad3ff519d46ecb42f93601485a.jpg " , Doutor Estranho ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:037CD9D388B6AE2E68AE76C110676A2360205BDA&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/02/09/8a3b36b5140266714b31d68257bbbeec.jpg " , Anjos da Noite 5: Guerras de Sangue ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:262A60AA24848E905923B3F420B568E7FB19ED0F&amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/25/998cb9ef615d22b5a2bef7281b7de74f.jpg " , Liga da Justiça Sombria ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:B203CDD288D183AB5CE97F072093F94335213098&amp
 
@@ -143,3 +143,19 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:CAE8FDC61D99C25B4F88800E52A7
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/VwxnmKx.jpg?1 " , Últimos Dias no Deserto ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:2D5A4A97DCEA94C92FB7C55C4E630A23FC640FF7&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/Qqq5OcW.jpg?1 " , Robosapien: O Meu Melhor Amigo ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B4743EA0733785472F730386F7120FD08AEEF05A&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/8nhFXS9.jpg?1 " , Meu Amigo, O Dragão ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B7845AE23B9E46FC1FA9604463D2EDB28C981784&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/hKjilYO.jpg?1 " , Homens de Coragem ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:21547069F99A3DEA38DD33D295EF5675D0025F5A&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/TfwRSO3.jpg?1 " , Demolição ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:DEFBE56EBF16B8C2FB1A94758F39FC61D58F6DD3&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/czGWimg.jpg?1 " , A Espada da Vinganca ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:F716574C78986DE798B97B943D5AEAF24A1FBC1E&amp
+
