@@ -159,3 +159,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:DEFBE56EBF16B8C2FB1A94758F39
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/czGWimg.jpg?1 " , A Espada da Vinganca ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:F716574C78986DE798B97B943D5AEAF24A1FBC1E&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/31/26ff0983bd7b0f8d19c009c7d6d690c8.jpg " , Minha Vida de Abobrinha ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:E48443439701EF6E977273061ED2EBD83081E091&amp
+
