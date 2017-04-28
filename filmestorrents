@@ -162,3 +162,24 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:F716574C78986DE798B97B943D5A
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/31/26ff0983bd7b0f8d19c009c7d6d690c8.jpg " , Minha Vida de Abobrinha ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:E48443439701EF6E977273061ED2EBD83081E091&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/3067959fad762d4dfc66e16a1b08a777.jpg " , Uma Historia de Vinganca ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:6F3A0528353FA6BA7B2201F6B55B77E1B3D7FE7B&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/d3f8aff0651e3eedd25ac7b667d231fd.jpg " , Cordeiros e Carrascos ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:1DF38C1916AA1B85DCF93DE6670FCEC1F8B452BB&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/16cf88bd04187496b2cb539f0dea36b6.jpg " , Fallen: O Filme ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:63D895C9229D1218E042A894D7D7316FE2B54C87&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/01df962267c35b792e04a57e996aff8b.jpg " , Um Homem Chamado Ove ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:22532EF89409E9C2C5F6B042B6F6E729338CD394&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/23/e8e0ecba645749f5ee54c400601e6e81.jpg " , A Mala E Os Errantes ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:EEB147FAC4F772C99E33894F8D9B3CDB50FC26FD&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/02/10/4eacb475ec8d7f7283e21c14d1b2aed9.jpg " , O Chamado 3 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:18754C22C31E3B0C7A92504DA88448024AFA9720&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/02/05/2f936f1cc2877e7a3450a899e8c411cd.jpg " , Armas na Mesa ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B21DA45F2447F1F3802A34DB0C4449EBE0C4DB3C&amp
+
