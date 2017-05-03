@@ -182,3 +182,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:22532EF89409E9C2C5F6B042B6F6
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/02/10/4eacb475ec8d7f7283e21c14d1b2aed9.jpg " , O Chamado 3 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:18754C22C31E3B0C7A92504DA88448024AFA9720&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://br.web.img2.acsta.net/pictures/14/01/06/14/35/382626.jpg" ,sherlock T01 EP03,
+http://127.0.0.1:63580/proxy?sid=725b213c&file=0&token=8BD9E2EB087D359CADAD8D2F63EFB17941433823&pairing=8BD9E2EB087D359CADAD8D2F63EFB17941433823&service=STREAMING
