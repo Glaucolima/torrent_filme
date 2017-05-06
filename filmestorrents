@@ -39,6 +39,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:B21DA45F2447F1F3802A34DB0C44
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/02/15/a0d649e0ca7d3e9a208356b57d062b19.jpg " , Assassino a Preco Fixo 2: A Ressurreicao ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:95F92DFD3BA615CE1944C55C0CBB29AF6A2D337B&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/czGWimg.jpg?1 " , A Espada da Vinganca ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:F716574C78986DE798B97B943D5AEAF24A1FBC1E&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://kickasstorrents.to/images/movies/29/755/2975590.jpg " aspect-ratio="16:9" , Batman v Superman: Dawn of Justice ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:6BE75A15F27743ECEB3E6B001FE1629750CF8889&amp
 
@@ -47,6 +50,42 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:5b7368f564ffc6665141739a7817
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/18/7873ad4440ff2219f7fbf7ca097974bb.jpg " , Call to Duty Fora de Alcance ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:A1D65B86FD02264D2C2932A649D75A6F619033D5&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/07/7e3797da756ab6e6c1c2180ff4afa5f1.jpg " , Coragem em Campo ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:71C5434129555386595D3E162E9FF2DF07F22162&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/d3f8aff0651e3eedd25ac7b667d231fd.jpg " , Cordeiros e Carrascos ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:1DF38C1916AA1B85DCF93DE6670FCEC1F8B452BB&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/TfwRSO3.jpg?1 " , Demolição ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:DEFBE56EBF16B8C2FB1A94758F39FC61D58F6DD3&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/12/bd3d94ad3ff519d46ecb42f93601485a.jpg " , Doutor Estranho ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:037CD9D388B6AE2E68AE76C110676A2360205BDA&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/07/eea5de6759f6682bd55fcdaaa432a7c5.jpg " , Dheepan: O Refugio ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:623F63C3E64723F8C37CD890EBE7AF39739206C7&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/16cf88bd04187496b2cb539f0dea36b6.jpg " , Fallen: O Filme ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:63D895C9229D1218E042A894D7D7316FE2B54C87&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Frank-e-Lola-Poster.jpg " aspect-ratio="16:9" , Frank & Lola ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:6BB7DAAAD5ED1E3559CA91F513D02C08F035A504&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/hKjilYO.jpg?1 " , Homens de Coragem ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:21547069F99A3DEA38DD33D295EF5675D0025F5A&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/15/1814b6ad58d74682fd198520ca4aba6b.jpg " , Honra e Leadade ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:77236A62686605DFEAE51E4F2CC50F536031A82D&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/18/5bb5d4a97eef59ad0bb31f1bb6f68780.jpg " , Jack Reacher: Sem Retorno ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:9A188E64D43289DEADE8D7C612A5AE32775FB592&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w325/c9piYIaPs5eCc31fgDal8HMg2Z0.jpg " , John Wick:De Volta ao Jogo ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:C471F44D13FEF18906CB6607480624D9084CFC67&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/John-Wick-2-Um-Novo-Dia-Para-Matar-Dublado-Torrent.jpg " , John Wick 2: Um Novo Dia Para(Em Breve)  ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://megafilmestorrent.org/wp-content/uploads/2017/03/Monster-Trucks-Torrent.jpg" aspect-ratio="16:9" , Monster Trucks ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:4F3AC2B0767B6DF83E1C5F6FC875605B3E898163&amp
@@ -70,13 +109,10 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:84912B99953A2185A70A2021EA4A
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:60E72971959351B96004EA517DDF1862D1E1B40A&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/03/Filme-xXx-Reativado-Torrent.jpg " aspect-ratio="16:9" , xXx: Reativado ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:88B37E7B106920694228B7CF97FDAC5310C18A71&amp
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:37CD89D71FB9D3766DD4D2759932E4B6C9479808&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Max-Steel-Poster.jpg " aspect-ratio="16:9" , Max Steel ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:3F32F394A036E9BF145E2411E3AC4EB67DD84E0C&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Frank-e-Lola-Poster.jpg " aspect-ratio="16:9" , Frank & Lola ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:6BB7DAAAD5ED1E3559CA91F513D02C08F035A504&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Sing-Quem-Canta-Seus-Males-Espanta-Dublado-Torrent.jpg " aspect-ratio="16:9" , Sing: Quem Canta Seus Males Espanta ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:219043A9ABAE0507E1B7070A39D74BA95D7105A1&amp
@@ -93,12 +129,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:D2FFC00C21DAF83F11C8580CB3F8
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-O-Apocalipse-Dublado-Torrent.jpg " , O Apocalipse ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:15632CCFA5A92E776523F18AE8A7E9C230D79250&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w325/c9piYIaPs5eCc31fgDal8HMg2Z0.jpg " , John Wick:De Volta ao Jogo ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:C471F44D13FEF18906CB6607480624D9084CFC67&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/John-Wick-2-Um-Novo-Dia-Para-Matar-Dublado-Torrent.jpg " , John Wick 2: Um Novo Dia Para(Em Breve)  ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Jovens-Titas-O-Contrato-de-Judas-Poster.jpg " aspect-ratio="16:9" , Jovens Titas: O Contrato de Juda ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:D512D9EA715809300E90C20C02337E2B9333B6CF&amp
 
@@ -114,32 +144,17 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:35C380FDC01F3670F5556549938B
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/08/ac327d88bdd628c40c061e87f02c143b.jpg " , Farol das Orcas ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:BA34F747ED4F45EADD6700B834867BFEC7F5E588&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/07/eea5de6759f6682bd55fcdaaa432a7c5.jpg " , Dheepan: O Refugio ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:623F63C3E64723F8C37CD890EBE7AF39739206C7&amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/18/a99bda43d8432c4d38781c64b5d05354.jpg " , Rogue One: Uma Historia Star Wars ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:532737B95209055C385AC9C5EE7FC1092BFB6652&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/15/1814b6ad58d74682fd198520ca4aba6b.jpg " , Honra e Leadade ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:77236A62686605DFEAE51E4F2CC50F536031A82D&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/09/a06b30f72bb8fade18ff42c72292a574.jpg " , Snowden: Herói ou Traidor ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:13CE51468985D1D55BCA77C291C21DE16A2FFB47&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/07/7e3797da756ab6e6c1c2180ff4afa5f1.jpg " , Coragem em Campo ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:71C5434129555386595D3E162E9FF2DF07F22162&amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/03/47a2b409fd481f8fe1661c9ac05145ce.jpg " , Michelle e Obama ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:4F6E17ADBCAEF52CA3CD1EEDC7757E30DD9B9D3D&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/12/bd3d94ad3ff519d46ecb42f93601485a.jpg " , Doutor Estranho ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:037CD9D388B6AE2E68AE76C110676A2360205BDA&amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/25/998cb9ef615d22b5a2bef7281b7de74f.jpg " , Liga da Justiça Sombria ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:B203CDD288D183AB5CE97F072093F94335213098&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/18/5bb5d4a97eef59ad0bb31f1bb6f68780.jpg " , Jack Reacher: Sem Retorno ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:9A188E64D43289DEADE8D7C612A5AE32775FB592&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/12/ad159d749bac052002acd8ac6e7d1352.jpg " , Kubo e as Cordas Mágicas ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:84D998CA810A6AA4135CCD8EEFE313053A17FD47&amp
@@ -156,26 +171,11 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:B4743EA0733785472F730386F712
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/8nhFXS9.jpg?1 " , Meu Amigo, O Dragão ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:B7845AE23B9E46FC1FA9604463D2EDB28C981784&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/hKjilYO.jpg?1 " , Homens de Coragem ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:21547069F99A3DEA38DD33D295EF5675D0025F5A&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/TfwRSO3.jpg?1 " , Demolição ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:DEFBE56EBF16B8C2FB1A94758F39FC61D58F6DD3&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/czGWimg.jpg?1 " , A Espada da Vinganca ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:F716574C78986DE798B97B943D5AEAF24A1FBC1E&amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/31/26ff0983bd7b0f8d19c009c7d6d690c8.jpg " , Minha Vida de Abobrinha ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:E48443439701EF6E977273061ED2EBD83081E091&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/3067959fad762d4dfc66e16a1b08a777.jpg " , Uma Historia de Vinganca ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:6F3A0528353FA6BA7B2201F6B55B77E1B3D7FE7B&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/d3f8aff0651e3eedd25ac7b667d231fd.jpg " , Cordeiros e Carrascos ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:1DF38C1916AA1B85DCF93DE6670FCEC1F8B452BB&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/16cf88bd04187496b2cb539f0dea36b6.jpg " , Fallen: O Filme ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:63D895C9229D1218E042A894D7D7316FE2B54C87&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/01df962267c35b792e04a57e996aff8b.jpg " , Um Homem Chamado Ove ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:22532EF89409E9C2C5F6B042B6F6E729338CD394&amp
@@ -183,5 +183,8 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:22532EF89409E9C2C5F6B042B6F6
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/02/10/4eacb475ec8d7f7283e21c14d1b2aed9.jpg " , O Chamado 3 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:18754C22C31E3B0C7A92504DA88448024AFA9720&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes,
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/04/MV5BYzg2Yzk2MzgtZWY3Yi00MDg5LTk3MjItMjQ0Yjg0YzA2MmU4XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_-237x351.jpg" , O Guerreiro ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:84255EF78C74675BEDA7FB83BDF6E944265D7940&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes Em Breve,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
