@@ -68,6 +68,7 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:623F63C3E64723F8C37CD890EBE7
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://torrentefilmes.com/wp-content/uploads/2017/04/viewimage-237x351.jpg " , Velozes e Furiosos 8 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:76857CE3ABD379C1208C77B1661FA15BB1E78CEA&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/16cf88bd04187496b2cb539f0dea36b6.jpg " , Fallen: O Filme ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:63D895C9229D1218E042A894D7D7316FE2B54C87&amp
 
