@@ -192,5 +192,8 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:84255EF78C74675BEDA7FB83BDF6
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/02/040062.jpg-r_1920_1080-f_jpg-q_x-xxyxx-237x351.jpg" , Fragmentado ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:03B6CD15B8D82D1E492C64AC2DF26687AC6FAE96&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/05/Quatro-Vidas-de-um-Cachorro-Dublado-Torrent.jpg" , Quatro Vidas de um Cachorro ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:7E6BBA9B0D1537CFC8B1DB4A9A0C4E0330468234&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes Em Breve,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
