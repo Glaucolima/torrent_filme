@@ -189,5 +189,8 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:18754C22C31E3B0C7A92504DA884
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/04/MV5BYzg2Yzk2MzgtZWY3Yi00MDg5LTk3MjItMjQ0Yjg0YzA2MmU4XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_-237x351.jpg" , O Guerreiro ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:84255EF78C74675BEDA7FB83BDF6E944265D7940&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/02/040062.jpg-r_1920_1080-f_jpg-q_x-xxyxx-237x351.jpg" , Fragmentado ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:03B6CD15B8D82D1E492C64AC2DF26687AC6FAE96&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes Em Breve,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
