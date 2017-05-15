@@ -15,6 +15,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:2109B78DB2896AAF8F98FF19007A
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2016/04/Filme-3-Dias-Para-Matar-Torrent.jpg " , 3 Dias Para Matar ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:55dd0a78240268904cb54c5f2cafa2b03a0d407e&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/02/338063.jpg-r_1920_1080-f_jpg-q_x-xxyxx-237x351.jpg" , A Grande Muralha ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:4E747B7D3C8DD2EEA434100E0D2C827797592C5A&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/02/09/8a3b36b5140266714b31d68257bbbeec.jpg " , Anjos da Noite 5: Guerras de Sangue ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:262A60AA24848E905923B3F420B568E7FB19ED0F&amp
 
@@ -66,14 +69,17 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:037CD9D388B6AE2E68AE76C11067
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/07/eea5de6759f6682bd55fcdaaa432a7c5.jpg " , Dheepan: O Refugio ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:623F63C3E64723F8C37CD890EBE7AF39739206C7&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://torrentefilmes.com/wp-content/uploads/2017/04/viewimage-237x351.jpg " , Velozes e Furiosos 8 ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:76857CE3ABD379C1208C77B1661FA15BB1E78CEA&amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/16cf88bd04187496b2cb539f0dea36b6.jpg " , Fallen: O Filme ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:63D895C9229D1218E042A894D7D7316FE2B54C87&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Frank-e-Lola-Poster.jpg " aspect-ratio="16:9" , Frank & Lola ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:6BB7DAAAD5ED1E3559CA91F513D02C08F035A504&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/02/040062.jpg-r_1920_1080-f_jpg-q_x-xxyxx-237x351.jpg" , Fragmentado ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:03B6CD15B8D82D1E492C64AC2DF26687AC6FAE96&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/08/ac327d88bdd628c40c061e87f02c143b.jpg " , Farol das Orcas ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:BA34F747ED4F45EADD6700B834867BFEC7F5E588&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/hKjilYO.jpg?1 " , Homens de Coragem ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:21547069F99A3DEA38DD33D295EF5675D0025F5A&amp
@@ -90,98 +96,41 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:C471F44D13FEF18906CB66074806
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/John-Wick-2-Um-Novo-Dia-Para-Matar-Dublado-Torrent.jpg " , John Wick 2: Um Novo Dia Para(Em Breve)  ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Jovens-Titas-O-Contrato-de-Judas-Poster.jpg " aspect-ratio="16:9" , Jovens Titas: O Contrato de Juda ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D512D9EA715809300E90C20C02337E2B9333B6CF&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/03/Logan-Wolverine-3-Dublado-Torrent.jpg" , Logan HDHip ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D2FFC00C21DAF83F11C8580CB3F8967FB537D98C&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/25/998cb9ef615d22b5a2bef7281b7de74f.jpg " , Liga da Justiça Sombria ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B203CDD288D183AB5CE97F072093F94335213098&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/03/47a2b409fd481f8fe1661c9ac05145ce.jpg " , Michelle e Obama ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:4F6E17ADBCAEF52CA3CD1EEDC7757E30DD9B9D3D&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/31/26ff0983bd7b0f8d19c009c7d6d690c8.jpg " , Minha Vida de Abobrinha ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:E48443439701EF6E977273061ED2EBD83081E091&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/8nhFXS9.jpg?1 " , Meu Amigo, O Dragão ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B7845AE23B9E46FC1FA9604463D2EDB28C981784&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://megafilmestorrent.org/wp-content/uploads/2017/03/Monster-Trucks-Torrent.jpg" aspect-ratio="16:9" , Monster Trucks ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:4F3AC2B0767B6DF83E1C5F6FC875605B3E898163&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://megafilmestorrent.org/wp-content/uploads/2017/03/Moana-Um-Mar-de-Aventuras-Torrent.jpg " aspect-ratio="16:9" , Moana ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:9766E5EAFFF34DCE312C1C7FEA89BB848F2991D3&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://megafilmestorrent.org/wp-content/uploads/2017/02/Scooby-Doo-E-o-Combate-do-Salsicha-Torrent.jpg " aspect-ratio="16:9" , Scooby-Doo! E o Combate do Salsicha ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:E6EB19998363743166F1441450AA70206F53B038&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://megafilmestorrent.org/wp-content/uploads/2017/01/Trolls-Torrent.jpg " aspect-ratio="16:9" , Trolls ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:D4DDB7A0F52D4302E0FA50E90813D15FA61BC0CD&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-Kong-A-Ilha-da-Caveira-Dublado-Torrent.jpg " aspect-ratio="16:9" , Kong: A Ilha Da Caveira ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:950292B8DA64DB6CE4C76C9876F4A3AD7886E951&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-O-Poderoso-Chefinho-Dublado-Torrent.jpg " aspect-ratio="16:9" , O Poderoso Chefinho ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:84912B99953A2185A70A2021EA4AAB6134FAFF69&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Resident-Evil-6-O-Capitulo-Final-Dublado-Torrent.jpg " aspect-ratio="16:9" , Resident Evil 6: O Capitulo Final ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:60E72971959351B96004EA517DDF1862D1E1B40A&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/03/Filme-xXx-Reativado-Torrent.jpg " aspect-ratio="16:9" , xXx: Reativado ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:37CD89D71FB9D3766DD4D2759932E4B6C9479808&amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Max-Steel-Poster.jpg " aspect-ratio="16:9" , Max Steel ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:3F32F394A036E9BF145E2411E3AC4EB67DD84E0C&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Sing-Quem-Canta-Seus-Males-Espanta-Dublado-Torrent.jpg " aspect-ratio="16:9" , Sing: Quem Canta Seus Males Espanta ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:219043A9ABAE0507E1B7070A39D74BA95D7105A1&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Passageiros-Dublado-Torrent.jpg " aspect-ratio="16:9" , Passageiros ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:042B136412412B6C676619EF65CF37CFE8CF820A&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-TOC-Transtornada-Obsessiva-Compulsiva-Dublado-Nacional-Torrent.jpg " , Transtornada Obsessiva Compulsiva ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:05BBC9967DF750D2A2FC886D74745DD3F2DD8390&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/03/Logan-Wolverine-3-Dublado-Torrent.jpg" , Logan HDHip ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:D2FFC00C21DAF83F11C8580CB3F8967FB537D98C&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-O-Apocalipse-Dublado-Torrent.jpg " , O Apocalipse ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:15632CCFA5A92E776523F18AE8A7E9C230D79250&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Jovens-Titas-O-Contrato-de-Judas-Poster.jpg " aspect-ratio="16:9" , Jovens Titas: O Contrato de Juda ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:D512D9EA715809300E90C20C02337E2B9333B6CF&amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.thepiratetorrent.org/wp-content/uploads/2017/04/O-%C3%9Altimo-Samurai.jpg " , O Ultimo Samurai ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:622a6367410c380870e71bde23b967522e92e261&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/31/066f871079f6b6bdff3a5306d07fab05.jpg " , Um Limite Entre Nos ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:36A7403EC5DC11EF42AE761AA1B1869CD12A90BE&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/16/e7836d530c690e3309af3422d150feb5.jpg " , Sandy Wexler ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:35C380FDC01F3670F5556549938B79B72C55DF61&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/08/ac327d88bdd628c40c061e87f02c143b.jpg " , Farol das Orcas ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:BA34F747ED4F45EADD6700B834867BFEC7F5E588&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/18/a99bda43d8432c4d38781c64b5d05354.jpg " , Rogue One: Uma Historia Star Wars ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:532737B95209055C385AC9C5EE7FC1092BFB6652&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/09/a06b30f72bb8fade18ff42c72292a574.jpg " , Snowden: Herói ou Traidor ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:13CE51468985D1D55BCA77C291C21DE16A2FFB47&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/03/47a2b409fd481f8fe1661c9ac05145ce.jpg " , Michelle e Obama ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:4F6E17ADBCAEF52CA3CD1EEDC7757E30DD9B9D3D&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/25/998cb9ef615d22b5a2bef7281b7de74f.jpg " , Liga da Justiça Sombria ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:B203CDD288D183AB5CE97F072093F94335213098&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/12/ad159d749bac052002acd8ac6e7d1352.jpg " , Kubo e as Cordas Mágicas ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:84D998CA810A6AA4135CCD8EEFE313053A17FD47&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/11/7a807a772999285de9e8cfc7cfe66c61.jpg " , Um Estado de Liberdade ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:CAE8FDC61D99C25B4F88800E52A7268E9D56DD50&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/VwxnmKx.jpg?1 " , Ultimos Dias no Deserto ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:2D5A4A97DCEA94C92FB7C55C4E630A23FC640FF7&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/Qqq5OcW.jpg?1 " , Robosapien: O Meu Melhor Amigo ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:B4743EA0733785472F730386F7120FD08AEEF05A&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/8nhFXS9.jpg?1 " , Meu Amigo, O Dragão ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:B7845AE23B9E46FC1FA9604463D2EDB28C981784&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/31/26ff0983bd7b0f8d19c009c7d6d690c8.jpg " , Minha Vida de Abobrinha ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:E48443439701EF6E977273061ED2EBD83081E091&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/3067959fad762d4dfc66e16a1b08a777.jpg " , Uma Historia de Vinganca ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:6F3A0528353FA6BA7B2201F6B55B77E1B3D7FE7B&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/01df962267c35b792e04a57e996aff8b.jpg " , Um Homem Chamado Ove ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:22532EF89409E9C2C5F6B042B6F6E729338CD394&amp
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-O-Poderoso-Chefinho-Dublado-Torrent.jpg " aspect-ratio="16:9" , O Poderoso Chefinho ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:84912B99953A2185A70A2021EA4AAB6134FAFF69&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/02/10/4eacb475ec8d7f7283e21c14d1b2aed9.jpg " , O Chamado 3 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:18754C22C31E3B0C7A92504DA88448024AFA9720&amp
@@ -189,11 +138,65 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:18754C22C31E3B0C7A92504DA884
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/04/MV5BYzg2Yzk2MzgtZWY3Yi00MDg5LTk3MjItMjQ0Yjg0YzA2MmU4XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_-237x351.jpg" , O Guerreiro ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:84255EF78C74675BEDA7FB83BDF6E944265D7940&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/02/040062.jpg-r_1920_1080-f_jpg-q_x-xxyxx-237x351.jpg" , Fragmentado ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:03B6CD15B8D82D1E492C64AC2DF26687AC6FAE96&amp
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Passageiros-Dublado-Torrent.jpg " aspect-ratio="16:9" , Passageiros ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:042B136412412B6C676619EF65CF37CFE8CF820A&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/05/Quatro-Vidas-de-um-Cachorro-Dublado-Torrent.jpg" , Quatro Vidas de um Cachorro ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:7E6BBA9B0D1537CFC8B1DB4A9A0C4E0330468234&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Resident-Evil-6-O-Capitulo-Final-Dublado-Torrent.jpg " aspect-ratio="16:9" , Resident Evil 6: O Capitulo Final ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:60E72971959351B96004EA517DDF1862D1E1B40A&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/18/a99bda43d8432c4d38781c64b5d05354.jpg " , Rogue One: Uma Historia Star Wars ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:532737B95209055C385AC9C5EE7FC1092BFB6652&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/Qqq5OcW.jpg?1 " , Robosapien: O Meu Melhor Amigo ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:B4743EA0733785472F730386F7120FD08AEEF05A&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/16/e7836d530c690e3309af3422d150feb5.jpg " , Sandy Wexler ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:35C380FDC01F3670F5556549938B79B72C55DF61&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/09/a06b30f72bb8fade18ff42c72292a574.jpg " , Snowden: Herói ou Traidor ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:13CE51468985D1D55BCA77C291C21DE16A2FFB47&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Sing-Quem-Canta-Seus-Males-Espanta-Dublado-Torrent.jpg " aspect-ratio="16:9" , Sing: Quem Canta Seus Males Espanta ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:219043A9ABAE0507E1B7070A39D74BA95D7105A1&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://megafilmestorrent.org/wp-content/uploads/2017/02/Scooby-Doo-E-o-Combate-do-Salsicha-Torrent.jpg " aspect-ratio="16:9" , Scooby-Doo! E o Combate do Salsicha ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:E6EB19998363743166F1441450AA70206F53B038&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-TOC-Transtornada-Obsessiva-Compulsiva-Dublado-Nacional-Torrent.jpg " , Transtornada Obsessiva Compulsiva ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:05BBC9967DF750D2A2FC886D74745DD3F2DD8390&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://megafilmestorrent.org/wp-content/uploads/2017/01/Trolls-Torrent.jpg " aspect-ratio="16:9" , Trolls ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D4DDB7A0F52D4302E0FA50E90813D15FA61BC0CD&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/11/7a807a772999285de9e8cfc7cfe66c61.jpg " , Um Estado de Liberdade ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:CAE8FDC61D99C25B4F88800E52A7268E9D56DD50&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/VwxnmKx.jpg?1 " , Ultimos Dias no Deserto ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:2D5A4A97DCEA94C92FB7C55C4E630A23FC640FF7&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/31/066f871079f6b6bdff3a5306d07fab05.jpg " , Um Limite Entre Nos ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:36A7403EC5DC11EF42AE761AA1B1869CD12A90BE&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/3067959fad762d4dfc66e16a1b08a777.jpg " , Uma Historia de Vinganca ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:6F3A0528353FA6BA7B2201F6B55B77E1B3D7FE7B&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/01df962267c35b792e04a57e996aff8b.jpg " , Um Homem Chamado Ove ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:22532EF89409E9C2C5F6B042B6F6E729338CD394&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://torrentefilmes.com/wp-content/uploads/2017/04/viewimage-237x351.jpg " , Velozes e Furiosos 8 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:76857CE3ABD379C1208C77B1661FA15BB1E78CEA&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-Kong-A-Ilha-da-Caveira-Dublado-Torrent.jpg " aspect-ratio="16:9" , Kong: A Ilha Da Caveira ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:950292B8DA64DB6CE4C76C9876F4A3AD7886E951&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/12/ad159d749bac052002acd8ac6e7d1352.jpg " , Kubo e as Cordas Mágicas ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:84D998CA810A6AA4135CCD8EEFE313053A17FD47&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/03/Filme-xXx-Reativado-Torrent.jpg " aspect-ratio="16:9" , xXx: Reativado ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:817E54D2B798E360685BCD3E18010EA49E6BFE28&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes Em Breve,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
