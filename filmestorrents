@@ -15,6 +15,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:2109B78DB2896AAF8F98FF19007A
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2016/04/Filme-3-Dias-Para-Matar-Torrent.jpg " , 3 Dias Para Matar ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:55dd0a78240268904cb54c5f2cafa2b03a0d407e&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/03/442219.jpg-r_1920_1080-f_jpg-q_x-xxyxx-237x351.jpg" , A Bela e a Fera ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:37648159F0AEAE6DF89A4F96E770DB99E8E46C37&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/02/338063.jpg-r_1920_1080-f_jpg-q_x-xxyxx-237x351.jpg" , A Grande Muralha ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:4E747B7D3C8DD2EEA434100E0D2C827797592C5A&amp
 
@@ -209,4 +212,3 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:817E54D2B798E360685BCD3E1801
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes Em Breve,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
-
