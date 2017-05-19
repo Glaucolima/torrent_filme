@@ -129,6 +129,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:9766E5EAFFF34DCE312C1C7FEA89
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Max-Steel-Poster.jpg " aspect-ratio="16:9" , Max Steel ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:3F32F394A036E9BF145E2411E3AC4EB67DD84E0C&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/05/Download-O-Vendedor-de-Sonhos-Dublado-Nacional-Torrent.jpg" ,O Vendedor de Sonhos,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:269D1A3267D1AC978C786F69BE95F2F273F72866&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/04/Download-O-Apocalipse-Dublado-Torrent.jpg " , O Apocalipse ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:15632CCFA5A92E776523F18AE8A7E9C230D79250&amp
 
