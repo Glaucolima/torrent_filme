@@ -99,8 +99,8 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:9A188E64D43289DEADE8D7C612A5
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w325/c9piYIaPs5eCc31fgDal8HMg2Z0.jpg " , John Wick:De Volta ao Jogo ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:C471F44D13FEF18906CB6607480624D9084CFC67&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/John-Wick-2-Um-Novo-Dia-Para-Matar-Dublado-Torrent.jpg " , John Wick 2: Um Novo Dia Para(Em Breve)  ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w200_and_h300_bestv2/pkRLUQQdlve7H7LjhyNODF7F5mK.jpg " , John Wick-Um Novo Dia Para Matar,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:AED077B83AC8D1828247A9F3A808ED06EA42F6F9&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Jovens-Titas-O-Contrato-de-Judas-Poster.jpg " aspect-ratio="16:9" , Jovens Titas: O Contrato de Juda ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:D512D9EA715809300E90C20C02337E2B9333B6CF&amp
