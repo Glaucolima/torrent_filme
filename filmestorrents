@@ -105,8 +105,8 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:AED077B83AC8D1828247A9F3A808
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/04/Filme-Jovens-Titas-O-Contrato-de-Judas-Poster.jpg " aspect-ratio="16:9" , Jovens Titas: O Contrato de Juda ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:D512D9EA715809300E90C20C02337E2B9333B6CF&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/03/Logan-Wolverine-3-Dublado-Torrent.jpg" , Logan HDHip ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:D2FFC00C21DAF83F11C8580CB3F8967FB537D98C&amp
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/03/Logan-Wolverine-3-Dublado-Torrent.jpg" , Logan ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:E04AD75E541F9FCAEE88096A15384E479BA5DE4A&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/25/998cb9ef615d22b5a2bef7281b7de74f.jpg " , Liga da Justiça Sombria ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:B203CDD288D183AB5CE97F072093F94335213098&amp
