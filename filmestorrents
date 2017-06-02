@@ -216,5 +216,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:84D998CA810A6AA4135CCD8EEFE3
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/03/Filme-xXx-Reativado-Torrent.jpg " aspect-ratio="16:9" , xXx: Reativado ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:817E54D2B798E360685BCD3E18010EA49E6BFE28&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,     ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:CDEA2E3CEBA8555F8DADE56521E9479FDFE71F3C&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes Em Breve,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
+
