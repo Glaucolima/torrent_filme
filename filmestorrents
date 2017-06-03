@@ -195,14 +195,17 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:CAE8FDC61D99C25B4F88800E52A7
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/VwxnmKx.jpg?1 " , Ultimos Dias no Deserto ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:2D5A4A97DCEA94C92FB7C55C4E630A23FC640FF7&amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/31/066f871079f6b6bdff3a5306d07fab05.jpg " , Um Limite Entre Nos ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:36A7403EC5DC11EF42AE761AA1B1869CD12A90BE&amp
-
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/3067959fad762d4dfc66e16a1b08a777.jpg " , Uma Historia de Vinganca ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:6F3A0528353FA6BA7B2201F6B55B77E1B3D7FE7B&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/04/28/01df962267c35b792e04a57e996aff8b.jpg " , Um Homem Chamado Ove ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:22532EF89409E9C2C5F6B042B6F6E729338CD394&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/01/31/066f871079f6b6bdff3a5306d07fab05.jpg " , Um Limite Entre Nos ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:36A7403EC5DC11EF42AE761AA1B1869CD12A90BE&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://3.bp.blogspot.com/-tmU5WQQAEYU/Vq42N22wuEI/AAAAAAAAB6Y/Ggf3ZpCm96M/s400/Um-Sonho-de-Liberdade-BLUDV.png" , Um Sonho De Liberdade ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:CDEA2E3CEBA8555F8DADE56521E9479FDFE71F3C&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://torrentefilmes.com/wp-content/uploads/2017/04/viewimage-237x351.jpg " , Velozes e Furiosos 8 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:76857CE3ABD379C1208C77B1661FA15BB1E78CEA&amp
@@ -215,9 +218,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:84D998CA810A6AA4135CCD8EEFE3
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.piratefilmeshd.org/wp-content/uploads/2017/03/Filme-xXx-Reativado-Torrent.jpg " aspect-ratio="16:9" , xXx: Reativado ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:817E54D2B798E360685BCD3E18010EA49E6BFE28&amp
-
-#EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,     ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:CDEA2E3CEBA8555F8DADE56521E9479FDFE71F3C&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes Em Breve,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
