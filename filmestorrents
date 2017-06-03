@@ -66,6 +66,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:1DF38C1916AA1B85DCF93DE6670F
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/TfwRSO3.jpg?1 " , Demolição ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:DEFBE56EBF16B8C2FB1A94758F39FC61D58F6DD3&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="https://3.bp.blogspot.com/-0c77ORYIgO0/WH2oaTefs2I/AAAAAAAAFlQ/wcDLHNG8dQ8Bm63wgRhs9XBrp50fNp9KACLcB/s400/CAPA.png" , Desventuras em Série ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:A85182FFE2AAA1EE7184289946CA2079DC97ECE4&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2016/12/MV5BMTcyNTExMDE1OV5BMl5BanBnXkFtZTgwNzg3OTMwODE@._V1_-237x351.jpg" , Duelo De Cordas ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:C5C801CCCC8B2D6BAD311A4FFE40710FD5366311&amp
 
