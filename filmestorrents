@@ -16,7 +16,7 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:2109B78DB2896AAF8F98FF19007A
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:55dd0a78240268904cb54c5f2cafa2b03a0d407e&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/03/442219.jpg-r_1920_1080-f_jpg-q_x-xxyxx-237x351.jpg" , A Bela e a Fera ,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:37648159F0AEAE6DF89A4F96E770DB99E8E46C37&amp
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:1A9ED2C45620AD5577D68B1661E56936C905D570&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.seutorrent.com/wp-content/uploads/2017/02/A-Grande-Muralha-220x300.jpg" , A Grande Muralha ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:00F5B99BEF2DBB6DC9302EBF8A7FAC29B0D0C06F&amp
@@ -156,6 +156,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:18754C22C31E3B0C7A92504DA884
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/04/MV5BYzg2Yzk2MzgtZWY3Yi00MDg5LTk3MjItMjQ0Yjg0YzA2MmU4XkEyXkFqcGdeQXVyNDA1NDA2NTk@._V1_-237x351.jpg" , O Guerreiro ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:84255EF78C74675BEDA7FB83BDF6E944265D7940&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="https://4.bp.blogspot.com/-E0aUHAmHAjg/WUCBjwecyaI/AAAAAAAAHyo/3lYCUN5S3uMN1Bab_3-Jtnf00vHmHEfxgCLcBGAs/s320/cover.png" , Power Rangers ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:0856D86FBD0775D6C7AE08410FD6B9FEB717B181&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Passageiros-Dublado-Torrent.jpg " aspect-ratio="16:9" , Passageiros ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:042B136412412B6C676619EF65CF37CFE8CF820A&amp
 
@@ -224,4 +227,3 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:817E54D2B798E360685BCD3E1801
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes Em Breve,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
-
