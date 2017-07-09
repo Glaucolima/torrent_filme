@@ -15,6 +15,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:2109B78DB2896AAF8F98FF19007A
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2016/04/Filme-3-Dias-Para-Matar-Torrent.jpg " , 3 Dias Para Matar ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:55dd0a78240268904cb54c5f2cafa2b03a0d407e&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://4.bp.blogspot.com/-xNBuEz3C-Xg/WQjAVWdBGzI/AAAAAAAAHRI/fegWoGeUrVQDz2b45z8aNLBcNZkqFAAegCLcB/s320/cover.png " , A Vigilante do Amanhã ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D8660C41464167A1D0BAAD3B4694FDDBB34E7920&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://torrentefilmes.com/wp-content/uploads/2017/03/442219.jpg-r_1920_1080-f_jpg-q_x-xxyxx-237x351.jpg" , A Bela e a Fera ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:1A9ED2C45620AD5577D68B1661E56936C905D570&amp
 
@@ -167,6 +170,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:7E6BBA9B0D1537CFC8B1DB4A9A0C
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentbrazil.org/wp-content/uploads/2017/02/Download-Resident-Evil-6-O-Capitulo-Final-Dublado-Torrent.jpg " aspect-ratio="16:9" , Resident Evil 6: O Capitulo Final ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:60E72971959351B96004EA517DDF1862D1E1B40A&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="https://2.bp.blogspot.com/-w1S63zRrpBk/WV0OcCtZECI/AAAAAAAAIB0/sRAf1gCtmeAOV_DPjba_Qa6IT8RmgmmBgCLcBGAs/s320/cover.png" , Resident Evil: A Vingança ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:2BBF41E432F585DE673DE627CE1444429E9FF37A&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://etzinhotorrents.com/img/images/2017/03/18/a99bda43d8432c4d38781c64b5d05354.jpg " , Rogue One: Uma Historia Star Wars ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:532737B95209055C385AC9C5EE7FC1092BFB6652&amp
