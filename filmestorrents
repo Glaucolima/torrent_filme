@@ -236,3 +236,7 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:817E54D2B798E360685BCD3E1801
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes Em Breve,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/07/Download-Despedida-em-Grande-Estilo-Dublado-Torrent.jpg" ,Despedida em Grande Estilo,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:C22CA744B292DE21065040D29BF2FC7BDFC17BFA&amp
+
