@@ -69,6 +69,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:1DF38C1916AA1B85DCF93DE6670F
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/TfwRSO3.jpg?1 " , Demolição ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:DEFBE56EBF16B8C2FB1A94758F39FC61D58F6DD3&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/07/Download-Despedida-em-Grande-Estilo-Dublado-Torrent.jpg" ,Despedida em Grande Estilo,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:C22CA744B292DE21065040D29BF2FC7BDFC17BFA&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="https://3.bp.blogspot.com/-0c77ORYIgO0/WH2oaTefs2I/AAAAAAAAFlQ/wcDLHNG8dQ8Bm63wgRhs9XBrp50fNp9KACLcB/s400/CAPA.png" , Desventuras em Série ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:A85182FFE2AAA1EE7184289946CA2079DC97ECE4&amp
 
@@ -237,6 +240,4 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:817E54D2B798E360685BCD3E1801
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="Em Breve" ,Mais Filmes Em Breve,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih: Codigo &amp
 
-#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentbrazil.org/wp-content/uploads/2017/07/Download-Despedida-em-Grande-Estilo-Dublado-Torrent.jpg" ,Despedida em Grande Estilo,
-http://localhost:65251/play?uri=magnet:?xt=urn:btih:C22CA744B292DE21065040D29BF2FC7BDFC17BFA&amp
 
